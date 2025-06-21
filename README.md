@@ -38,5 +38,17 @@ A faithful recreation of Netflix’s homepage UI using **HTML** & **CSS**.
    cd Netflix-UI-Clone- 
 
 3.Open the index.html file in your browser, or serve it using a dev server:
-   With VS Code Extension (Live Server): 
-   -Right-click index.html → Open with Live Server
+   <br>With VS Code Extension (Live Server): 
+   <br>     Right-click index.html → Open with Live Server
+
+## Responsive Design
+ This project is designed to be responsive:
+ - Uses media queries at max-width: 1300px
+ - Adjusts layout, image/video sizes, font sizes, and grid structure for better viewing across devices
+
+## Technologies Used
+- HTML
+- CSS
+
+  ✨ Thanks for checking out my project!
+– Aryan Hiremath

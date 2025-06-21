@@ -19,16 +19,10 @@ A faithful recreation of Netflix’s homepage UI using **HTML**, **CSS**, and ba
 
 ## 🎥 Screenshots
 
-*(Replace these with your actual screenshots; store them under the repo like `/assets/screenshots/`)*
+![1](https://github.com/user-attachments/assets/0824f94e-886a-4308-9c13-ab9b044cf654)
 
-### Desktop View
-![Desktop Screenshot](assets/screenshots/desktop.png)
 
-### Tablet / Mid-size Screen
-![Tablet Screenshot](assets/screenshots/tablet.png)
-
-### Mobile View
-![Mobile Screenshot](assets/screenshots/mobile.png)
+.png)
 
 ---
 

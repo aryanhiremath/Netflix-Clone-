@@ -1,12 +1,9 @@
-# 📺 Netflix UI Clone
+#  Netflix UI Clone
 
-A faithful recreation of Netflix’s homepage UI using **HTML**, **CSS**, and basic **JavaScript** (if applicable).
-
-**Live Demo:** *(Add link if deployed via GitHub Pages)*
-
+A faithful recreation of Netflix’s homepage UI using **HTML** & **CSS**.
 ---
 
-## 🧰 Features
+##  Features
 
 - Responsive navigation bar with logo and buttons  
 - Hero section with background image, headline, subtitle, and CTA form  
@@ -17,7 +14,7 @@ A faithful recreation of Netflix’s homepage UI using **HTML**, **CSS**, and ba
 
 ---
 
-## 🎥 Screenshots
+##  Screenshots
 
 ![1](https://github.com/user-attachments/assets/0824f94e-886a-4308-9c13-ab9b044cf654)
 ![2](https://github.com/user-attachments/assets/13e2a9ff-7b9a-490a-9eee-28849146b732)
@@ -30,7 +27,7 @@ A faithful recreation of Netflix’s homepage UI using **HTML**, **CSS**, and ba
 
 
 
-## ⚙️ Installation & Running Locally
+##  Installation & Running Locally
 
 1. Clone the repository:  
    ```bash

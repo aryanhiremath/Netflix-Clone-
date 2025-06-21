@@ -35,8 +35,8 @@ A faithful recreation of Netflix’s homepage UI using **HTML** & **CSS**.
 
 2. Change into project folder:
    '''bash
-   cd Netflix-UI-Clone- \n
+   cd Netflix-UI-Clone- 
 
 3.Open the index.html file in your browser, or serve it using a dev server:
-   With VS Code Extension (Live Server): \n
-   Right-click index.html → Open with Live Server
+   With VS Code Extension (Live Server): 
+   -Right-click index.html → Open with Live Server

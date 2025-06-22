@@ -1,6 +1,6 @@
 #  Netflix UI Clone
 
-A faithful recreation of Netflix’s homepage UI using **HTML** & **CSS**
+A faithful recreation of Netflix’s homepage UI using **HTML** & **CSS**.
 ---
 
 ##  Features
